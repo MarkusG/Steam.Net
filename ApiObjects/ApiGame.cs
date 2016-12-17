@@ -1,6 +1,6 @@
 ﻿using Newtonsoft.Json;
 
-namespace Steam.ResponseObjects
+namespace Steam.ApiObjects
 {
     internal class ApiGame
     {

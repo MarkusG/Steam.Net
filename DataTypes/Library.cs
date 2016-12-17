@@ -1,5 +1,5 @@
 ﻿using System.Collections.Generic;
-using Steam.ResponseObjects;
+using Steam.ApiObjects;
 
 namespace Steam.DataTypes
 {

@@ -1,5 +1,5 @@
 ﻿using System;
-using Steam.ResponseObjects;
+using Steam.ApiObjects;
 
 namespace Steam.DataTypes
 {
